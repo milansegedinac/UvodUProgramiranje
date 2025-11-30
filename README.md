@@ -6,7 +6,7 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ## Preuzimanja
 
-- **PDF:** [Uvod u programiranje]:(https://github.com/milansegedinac/UvodUProgramiranje/blob/main/UvodUProgramiranje.pdf)
+- **PDF:** [Uvod u programiranje](https://github.com/milansegedinac/UvodUProgramiranje/blob/main/UvodUProgramiranje.pdf)
 <!-- - **EPUB:** `link-ka-epub-u` -->
 <!-- - **MOBI:** `link-ka-mobi-ju` (za starije Kindle uređaje) -->
 

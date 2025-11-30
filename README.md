@@ -38,7 +38,7 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ## Licenca
 
-Ovo delo je licencirano pod:  
+Knjiga i sav prateći materijal (uključujući i programski kod) su licencirani pod:  
 **Creative Commons BY-NC-ND 4.0 International**
 
 To znači:

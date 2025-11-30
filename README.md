@@ -58,6 +58,7 @@ Tekst licence nalazi se u fajlu **LICENSE**.
 
 Pošto je knjiga dostupna na GitHub-u, možete:
 
+- da knjigu koristite za samostalno učenje ili kao udžbenik na predmetu koji držite i da me obavestite o iskustvima,
 - da predložite ispravke putem *Issues* ili da mi se direktno obratite,
 - da prijavite greške u kodu ili tipografske greške,
 - da predložite dodatna objašnjenja ili ilustracije.

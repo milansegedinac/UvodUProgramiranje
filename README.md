@@ -6,7 +6,7 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ## Preuzimanja
 
-- **PDF:** `link-ka-pdf-u`
+- **PDF:** `https://github.com/milansegedinac/UvodUProgramiranje/blob/main/UvodUProgramiranje.pdf`
 <!-- - **EPUB:** `link-ka-epub-u` -->
 <!-- - **MOBI:** `link-ka-mobi-ju` (za starije Kindle uređaje) -->
 
@@ -22,7 +22,7 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ---
 
-## 🛠 Sadržaj
+## Sadržaj
 
 - Uvod
 - Izrazi 

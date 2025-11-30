@@ -1,4 +1,4 @@
-**Besplatan udžbenik za početno učenje funkcionalnog programiranja (Haskell), na srpskom jeziku.**, namenjen srednjoškolcima, studentima i svima koji počinju da uče programiranje. Knjiga je dostupna pod licencom Creative Commons BY-NC-ND 4.0.
+**Besplatan udžbenik za početno učenje funkcionalnog programiranja (Haskell), na srpskom jeziku**, namenjen srednjoškolcima, studentima i svima koji počinju da uče programiranje. Knjiga je dostupna pod licencom Creative Commons BY-NC-ND 4.0.
 
 Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana sa ciljem da pruži jasan, praktičan i savremen uvod u funkcionalno programiranje. Knjigu prate brojni primeri i jedan metodički urađen projekat.
 

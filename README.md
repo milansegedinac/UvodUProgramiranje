@@ -26,7 +26,6 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ## Sadržaj
 
-- Uvod
 - Izrazi 
 - Funkcije
 - Tipovi
@@ -34,7 +33,6 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 - Polimorfizam
 - Monade
 - Projekat
-- Zaključak
 
 ---
 

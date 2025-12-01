@@ -1,3 +1,7 @@
+# Uvod u programiranje
+
+<!-- ![Uvod u programiranje](https://github.com/milansegedinac/UvodUProgramiranje/blob/main/Cover.png) -->
+
 **Besplatan udžbenik za početno učenje funkcionalnog programiranja (Haskell), na srpskom jeziku**, namenjen srednjoškolcima, studentima i svima koji počinju da uče programiranje. Knjiga je dostupna pod licencom Creative Commons BY-NC-ND 4.0.
 
 Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana sa ciljem da pruži jasan, praktičan i savremen uvod u funkcionalno programiranje. Knjigu prate brojni primeri i jedan metodički urađen projekat.
@@ -24,7 +28,6 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 
 ## Sadržaj
 
-- Uvod
 - Izrazi 
 - Funkcije
 - Tipovi
@@ -32,7 +35,6 @@ Ovo izdanje je slobodno dostupno za preuzimanje i distribuciju. Knjiga je pisana
 - Polimorfizam
 - Monade
 - Projekat
-- Zaključak
 
 ---
 
@@ -54,9 +56,10 @@ Tekst licence nalazi se u fajlu **LICENSE**.
 
 ## Kako doprineti
 
-Pošto je knjiga dostupna na GitHub-u, možete:
+Ako želite da mi pomognete da ova knjiga postane bolja, možete:
 
-- da predložite ispravke putem *Issues* ili da mi se direktno obratite,
+- da knjigu koristite za samostalno učenje ili kao udžbenik na predmetu koji držite i da me obavestite o iskustvima,
+- da predložite ispravke,
 - da prijavite greške u kodu ili tipografske greške,
 - da predložite dodatna objašnjenja ili ilustracije.
 
